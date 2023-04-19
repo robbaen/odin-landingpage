@@ -272,13 +272,19 @@ body {
     font-weight: 700;
 }
 
-
-
 /* CTO END */
-
 
 
 /* FOOTER */
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #1F2937;
+    color: white;
+    height: 100px;
+}
 
 /* FOOTER END */
